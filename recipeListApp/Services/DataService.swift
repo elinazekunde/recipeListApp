@@ -49,7 +49,6 @@ class DataService {
             //error with getting data
             print(error)
         }
-        
         return [Recipe]()
     }
 }
