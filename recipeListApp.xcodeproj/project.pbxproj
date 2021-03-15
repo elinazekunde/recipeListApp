@@ -19,6 +19,7 @@
 		1B3CDEE625F8DCC100362FA3 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B3CDEE525F8DCC000362FA3 /* RecipeTabView.swift */; };
 		1B3CDF2225F9246D00362FA3 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B3CDF2125F9246C00362FA3 /* RecipeFeaturedView.swift */; };
 		1B5D766B25FF88F5002155ED /* Rational.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5D766A25FF88F5002155ED /* Rational.swift */; };
+		1B5D766E25FF9AC1002155ED /* RecipeHighlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5D766D25FF9AC1002155ED /* RecipeHighlights.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		1B3CDEE525F8DCC000362FA3 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		1B3CDF2125F9246C00362FA3 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		1B5D766A25FF88F5002155ED /* Rational.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rational.swift; sourceTree = "<group>"; };
+		1B5D766D25FF9AC1002155ED /* RecipeHighlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeHighlights.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				1B3CDF2125F9246C00362FA3 /* RecipeFeaturedView.swift */,
 				1B3CDE7725F6750200362FA3 /* RecipeListView.swift */,
 				1B3CDEAE25F7839900362FA3 /* RecipeDetailView.swift */,
+				1B5D766D25FF9AC1002155ED /* RecipeHighlights.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				1B3CDE9025F6766100362FA3 /* Recipe.swift in Sources */,
 				1B3CDEAF25F7839900362FA3 /* RecipeDetailView.swift in Sources */,
+				1B5D766E25FF9AC1002155ED /* RecipeHighlights.swift in Sources */,
 				1B5D766B25FF88F5002155ED /* Rational.swift in Sources */,
 				1B3CDE9425F677EC00362FA3 /* RecipeModel.swift in Sources */,
 				1B3CDE7825F6750200362FA3 /* RecipeListView.swift in Sources */,
